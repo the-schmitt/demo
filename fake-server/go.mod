@@ -1,7 +1,5 @@
-module github.com/schmitt/demo-mono/fake-server
+module github.com/the-schmitt/demo/fake-server
 
 go 1.21
 
-require github.com/schmitt/demo-mono/import-levi v0.2.0
-
-replace github.com/schmitt/demo-mono/import-levi => ../import-levi
+require github.com/the-schmitt/demo/import-levi v0.3.1

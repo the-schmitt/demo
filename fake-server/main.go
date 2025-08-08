@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	levi "github.com/schmitt/demo-mono/import-levi/v0.2.0"
+	levi "github.com/the-schmitt/demo/import-levi"
 )
 
 func main() {
