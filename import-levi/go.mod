@@ -1,3 +1,3 @@
-module github.com/schmitt/demo-mono/import-levi/v0.2.0
+module github.com/the-schmitt/demo/import-levi
 
 go 1.21
